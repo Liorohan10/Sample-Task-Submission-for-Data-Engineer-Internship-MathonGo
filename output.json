@@ -1,0 +1,86 @@
+[
+    {
+        "questionNumber": 1,
+        "questionId": 481221,
+        "questionText": "If $\\\\Delta=\\\\left|\\\\begin{array}{lll}a_{11} & a_{12} & a_{13} \\\\ a_{21} & a_{22} & a_{23} \\\\ a_{31} & a_{32} & a_{33}\\\\end{array}\\\\right|$ and $A_{i j}$ is co-factor of $a_{i j}$, then\nvalue of $\\\\Delta$ is equal to",
+        "options": [
+            {
+                "optionNumber": 1,
+                "optionText": "$a_{11} A_{31}+a_{12} A_{32}+a_{13} A_{33}$",
+                "isCorrect": false
+            },
+            {
+                "optionNumber": 2,
+                "optionText": "$a_{11} A_{11}+a_{12} A_{21}+a_{13} A_{31}$",
+                "isCorrect": false
+            },
+            {
+                "optionNumber": 3,
+                "optionText": "$a_{21} A_{11}+a_{22} A_{12}+a_{23} A_{13}$",
+                "isCorrect": false
+            },
+            {
+                "optionNumber": 4,
+                "optionText": "$a_{11} A_{11}+a_{21} A_{21}+a_{31} A_{31}$",
+                "isCorrect": true
+            }
+        ],
+        "solutionText": "$\\\\Delta=a_{11} A_{11}+a_{21} A_{21}+a_{31} A_{31}$\n\n\\\\section*{"
+    },
+    {
+        "questionNumber": 2,
+        "questionId": 481222,
+        "questionText": "If the matrix $\\\\left[\\\\begin{array}{ccc}0 & -1 & 3 x \\\\ 1 & y & -5 \\\\ -6 & 5 & 0\\\\end{array}\\\\right]$ is skew symmetric, then\n$6 x+y$ is equal to",
+        "options": [
+            {
+                "optionNumber": 1,
+                "optionText": "6",
+                "isCorrect": false
+            },
+            {
+                "optionNumber": 2,
+                "optionText": "12",
+                "isCorrect": true
+            },
+            {
+                "optionNumber": 3,
+                "optionText": "18",
+                "isCorrect": false
+            },
+            {
+                "optionNumber": 4,
+                "optionText": "2",
+                "isCorrect": false
+            }
+        ],
+        "solutionText": "$y=0$ and $3 x=6$\n\nSo, $6 x+y=12$\n\n\\\\section*{"
+    },
+    {
+        "questionNumber": 3,
+        "questionId": 481223,
+        "questionText": "If $\\\\left|\\\\begin{array}{cc}3 & -4 \\\\ 2 & 1\\\\end{array}\\\\right|=\\\\left|\\\\begin{array}{cc}2 x & 5 \\\\ 1 & x\\\\end{array}\\\\right|$ then $|x|$ is equal to",
+        "options": [
+            {
+                "optionNumber": 1,
+                "optionText": "$\\\\\\\\sqrt{\\\\\\\\frac{5}{2}}$",
+                "isCorrect": false
+            },
+            {
+                "optionNumber": 2,
+                "optionText": "4",
+                "isCorrect": false
+            },
+            {
+                "optionNumber": 3,
+                "optionText": "$2 \\\\\\\\sqrt{2}$",
+                "isCorrect": true
+            },
+            {
+                "optionNumber": 4,
+                "optionText": "2",
+                "isCorrect": false
+            }
+        ],
+        "solutionText": "$\\\\left|\\\\begin{array}{cc}3 & -4 \\\\ 2 & 1\\\\end{array}\\\\right|=\\\\left|\\\\begin{array}{cc}2 x & 5 \\\\ 1 & x\\\\end{array}\\\\right|$\n\n$\\\\Rightarrow 11=2 x^{2}-5$\n\n$\\\\Rightarrow x^{2}=8$\n\n$\\\\Rightarrow|x|=2 \\\\sqrt{2}$"
+    }
+]
